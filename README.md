@@ -1,5 +1,7 @@
 # Voter
 
+<img src="https://github.com/gprzy/credit-scoring/blob/main/assets/puc.png" width="30%" height="30%"/>
+
 ## Setup environment (Unix-*like*)
 
 1. Install requirements
